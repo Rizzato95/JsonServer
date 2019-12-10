@@ -1,6 +1,6 @@
 {
   "checkLicense": {
-    "remainingDays": 20,
+    "licenseRemainingDays": 20,
     "message": ""
   }
 }
