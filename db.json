@@ -2,5 +2,14 @@
   "checkLicense": {
     "licenseRemainingDays": 44,
     "message": ""
-  }
+  },
+  "people": [{
+			"name": "Marco",
+			"id": 1
+		},
+		{
+			"name": "Alessio",
+			"id": 2
+		}
+	]
 }
